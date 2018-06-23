@@ -1,0 +1,10 @@
+.panda{
+  position: relative;
+  width: 50%;
+  margin-top: 6%
+}
+
+body{
+  background-color: #464646;
+  text-align: center;
+}
